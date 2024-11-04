@@ -117,9 +117,16 @@ section.especialidades{
     margin: 30px 0;
 }
 
+section.especialidades .flex{
+    gap: 60px;
+}
+
 .especialidades .especialidades-box{
     color: #fff;
     pad: 40px;
+    border-radius: 20px;
+    border: 2px solid #fff;
+    margin-top: 45px;
 }
 
 .especialidades .especialidades-box i{
